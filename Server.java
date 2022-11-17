@@ -1,16 +1,3 @@
-/**
- * The server class waits for the connection of the two clients client_1
- * and client_2 (in either order) on port 1337. Receives one character
- * from client_1 and one character from client_2 (in either order) and
- * calculates the winner of the game based on a rule set. After sending a
- * correspondent massage to each client the server waits again for two
- * clients to connect.
- *
- * @author Mathias Schilling <https://github.com/pinkbigmacmedia>
- * @version 1.0
- * 
- */
-
 package PaperScissorsStone;
 
 import java.io.*;

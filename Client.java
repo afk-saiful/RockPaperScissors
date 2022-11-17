@@ -1,15 +1,3 @@
-/**
- * The client class creates a connection to the server at default port 1337.
- * Waits for the user to input a single character with the keyboard. The
- * character has to be ’R’ (rock), ’P’ (paper) or ’S’ (scissors). Sends the
- * character to the server via the TCP protocol. Waits for a reply from the
- * Server. Prints the message received from the Server. Closes the connection.
- *
- * @author Mathias Schilling <https://github.com/pinkbigmacmedia>
- * @version 1.0
- * 
- */
-
 package PaperScissorsStone;
 
 import java.io.*;
